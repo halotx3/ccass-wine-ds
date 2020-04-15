@@ -12,3 +12,9 @@
     - Get weather data on countries in scope
     - Use openweather API
     - Overlay this data with Sam's heatmap
+
+**stg-ieh**
+	- Clean data
+	- Upload data
+	- Perform analysis
+	
