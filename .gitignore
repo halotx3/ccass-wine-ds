@@ -4,6 +4,11 @@ api_keys.py
 /output
 =======
 /models
-/Output
+/Output/wine_cleaned.xlsx
+/Output/wine_cleaned_location.xlsx
+/Output/wine_cleaned_point_average.xlsx
 /input
 >>>>>>> fc6a8e73cd35aa53337a5de7e238216efeedf723
+/APH/Output
+/APH/wine_cleaned_APH.csv
+/APH/wine_cleaned_APH.xlsx
