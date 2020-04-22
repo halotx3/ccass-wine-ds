@@ -12,3 +12,4 @@ api_keys.py
 /APH/Output
 /APH/wine_cleaned_APH.csv
 /APH/wine_cleaned_APH.xlsx
+.DS_Store
